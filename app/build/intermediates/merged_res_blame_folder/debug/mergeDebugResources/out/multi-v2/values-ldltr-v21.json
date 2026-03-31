@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.motorola.motomouse.app-mergeDebugResources-49:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zhangjb24\\.gradle\\caches\\9.3.1\\transforms\\fd0fed8d4a1c270cda29a9cf9fa7f07f\\workspace\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

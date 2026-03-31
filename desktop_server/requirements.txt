@@ -1,0 +1,4 @@
+Pillow>=11.0.0
+PyAutoGUI>=0.9.54
+qrcode[pil]>=8.0
+

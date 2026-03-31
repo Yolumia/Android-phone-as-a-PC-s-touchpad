@@ -1,0 +1,2 @@
+"""MotoMouse desktop companion package."""
+

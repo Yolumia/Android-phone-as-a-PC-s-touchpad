@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.motorola.motomouse.ExampleUnitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-03-31T13:33:12.876Z" hostname="ZHANGJB24-WNLSX" time="0.021">
+  <properties/>
+  <testcase name="storedJson_roundTripsSuccessfully" classname="com.motorola.motomouse.ExampleUnitTest" time="0.016"/>
+  <testcase name="malformedPayload_returnsFailure" classname="com.motorola.motomouse.ExampleUnitTest" time="0.001"/>
+  <testcase name="qrPayload_isParsedSuccessfully" classname="com.motorola.motomouse.ExampleUnitTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
